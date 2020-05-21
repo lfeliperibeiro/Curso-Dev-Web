@@ -1,5 +1,6 @@
 # Curso-Dev-Web
 Material e Aulas do curso de dev web
+Importante salientar que este material é de um curso que estou fazendo então para mais dúvidas [acesse](http://www.cod3r.com.br)
 
 ## Linguagem usada: 
 * JavaScript
