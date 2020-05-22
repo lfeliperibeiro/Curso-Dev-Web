@@ -14,6 +14,10 @@ Material e Aulas do curso de dev web.
 * lodash
 * exios
 
+## Frameworks:
+
+* Express
+
 **Obs.:** Estou atualizando conformo o progresso no curso
 
 **Obs2.:** Para instalar o node_modules basta ir na pasta que esta o package.json e no terminal usar o comando **npm i**
