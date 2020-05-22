@@ -18,7 +18,7 @@ Material e Aulas do curso de dev web.
 
 * Express
 
-**Obs.:** Estou atualizando conformo o progresso no curso
+**Obs.:** Estou atualizando conforme o progresso no curso
 
 **Obs2.:** Para instalar o node_modules basta ir na pasta que esta o package.json e no terminal usar o comando **npm i**
 
