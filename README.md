@@ -5,9 +5,12 @@ Material e Aulas do curso de dev web.
 ## Linguagem usada: 
 * JavaScript
 
-## Técnologias usadas até o momento:
+## Backend:
 
 * Node.js
+
+## Bibliotecas:
+
 * lodash
 * exios
 
