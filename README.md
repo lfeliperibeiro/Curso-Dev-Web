@@ -12,6 +12,9 @@ Material e Aulas do curso de dev web.
 ## Bibliotecas:
 
 * lodash
+
+## Cliente Http:
+
 * exios
 
 ## Frameworks:
