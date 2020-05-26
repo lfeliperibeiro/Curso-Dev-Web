@@ -1,0 +1,19 @@
+{
+  "name": "curso-dev-web",
+  "version": "1.0.0",
+  "description": "Material e Aulas do curso de dev web. > Importante salientar que este material é de um curso que estou fazendo então para mais dúvidas [acesse](http://www.cod3r.com.br)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lfeliperibeiro/Curso-Dev-Web.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lfeliperibeiro/Curso-Dev-Web/issues"
+  },
+  "homepage": "https://github.com/lfeliperibeiro/Curso-Dev-Web#readme"
+}
