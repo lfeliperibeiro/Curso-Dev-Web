@@ -4,12 +4,17 @@
 <head>
     <meta charset="UTF-8">
     <title>Origem CSS: Externo, Interno e Inline</title>
+    <!-- Interno -->
     <style>
-        /* ... */
+        body{
+            background-color: aquamarine;
+        }
     </style>
+    <!-- link -->
+    <link rel="stylesheet" href="./css/externo.css">
 </head>
 
-<body>
+<body style="background-color: blue;"> <!--Inline não é recomendado-->
     <h1>E agora?</h1>
 </body>
 
