@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/lfeliperibeiro/Curso-Dev-Web/issues"
   },
-  "homepage": "https://github.com/lfeliperibeiro/Curso-Dev-Web#readme"
+  "homepage": "https://github.com/lfeliperibeiro/Curso-Dev-Web#readme",
+  "devDependencies": {
+    "prettier": "2.0.5"
+  }
 }
