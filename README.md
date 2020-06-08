@@ -20,6 +20,15 @@ Material e Aulas do curso de dev web.
 ## Frameworks:
 
 * Express
+* Jquery
+
+## Técnologias
+
+* Html 
+* CSS
+* Gulp
+* Webpack
+
 
 **Obs.:** Estou atualizando conforme o progresso no curso
 
